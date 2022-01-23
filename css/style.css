@@ -17,3 +17,7 @@ nav{
 .spcl{
     transform: translatey(-15px);
 }
+/* footer */
+.footer{
+    height: 200px;
+}
