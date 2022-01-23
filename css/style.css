@@ -1,0 +1,14 @@
+/* google fonts imported */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+
+/* global css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* navigation bar */
+nav{
+    height: 100px;
+}
